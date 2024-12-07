@@ -1,0 +1,14 @@
+/Users/fahadalmaashani/Documents/fibonacci series /FibonacciApp/bin/Debug/net9.0/FibonacciApp
+/Users/fahadalmaashani/Documents/fibonacci series /FibonacciApp/bin/Debug/net9.0/FibonacciApp.deps.json
+/Users/fahadalmaashani/Documents/fibonacci series /FibonacciApp/bin/Debug/net9.0/FibonacciApp.runtimeconfig.json
+/Users/fahadalmaashani/Documents/fibonacci series /FibonacciApp/bin/Debug/net9.0/FibonacciApp.dll
+/Users/fahadalmaashani/Documents/fibonacci series /FibonacciApp/bin/Debug/net9.0/FibonacciApp.pdb
+/Users/fahadalmaashani/Documents/fibonacci series /FibonacciApp/obj/Debug/net9.0/FibonacciApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fahadalmaashani/Documents/fibonacci series /FibonacciApp/obj/Debug/net9.0/FibonacciApp.AssemblyInfoInputs.cache
+/Users/fahadalmaashani/Documents/fibonacci series /FibonacciApp/obj/Debug/net9.0/FibonacciApp.AssemblyInfo.cs
+/Users/fahadalmaashani/Documents/fibonacci series /FibonacciApp/obj/Debug/net9.0/FibonacciApp.csproj.CoreCompileInputs.cache
+/Users/fahadalmaashani/Documents/fibonacci series /FibonacciApp/obj/Debug/net9.0/FibonacciApp.dll
+/Users/fahadalmaashani/Documents/fibonacci series /FibonacciApp/obj/Debug/net9.0/refint/FibonacciApp.dll
+/Users/fahadalmaashani/Documents/fibonacci series /FibonacciApp/obj/Debug/net9.0/FibonacciApp.pdb
+/Users/fahadalmaashani/Documents/fibonacci series /FibonacciApp/obj/Debug/net9.0/FibonacciApp.genruntimeconfig.cache
+/Users/fahadalmaashani/Documents/fibonacci series /FibonacciApp/obj/Debug/net9.0/ref/FibonacciApp.dll
